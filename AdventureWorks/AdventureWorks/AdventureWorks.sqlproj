@@ -221,5 +221,6 @@
     <Build Include="HumanResources\Stored Procedures\sp_jmc.sql" />
     <Build Include="HumanResources\Stored Procedures\Procedure1.sql" />
     <Build Include="HumanResources\Stored Procedures\Procedure2.sql" />
+    <Build Include="HumanResources\Stored Procedures\Procedure3.sql" />
   </ItemGroup>
 </Project>
