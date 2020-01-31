@@ -219,5 +219,7 @@
     <Build Include="Sales\XMLSchemaCollections\StoreSurveySchemaCollection.sql" />
     <Build Include="ExtendedProperties.sql" />
     <Build Include="HumanResources\Stored Procedures\sp_jmc.sql" />
+    <Build Include="HumanResources\Stored Procedures\Procedure1.sql" />
+    <Build Include="HumanResources\Stored Procedures\Procedure2.sql" />
   </ItemGroup>
 </Project>
